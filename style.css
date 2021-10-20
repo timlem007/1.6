@@ -52,7 +52,7 @@ body {
   height: 40px;
   border-radius: 50%;
   background: #FF3E79;
-  background-image: url(/src/img/header__menu.png);
+  background-image: url(/img/header__menu.png);
   background-repeat: no-repeat;
   background-position-x: center;
   background-position-y: center;
@@ -80,7 +80,7 @@ body {
     margin: auto 20px auto 20px; } }
 
 .header__logo {
-  background-image: url(/src/img/header__logo.png);
+  background-image: url(/img/header__logo.png);
   height: 50.81px;
   width: 96.55px; }
 
@@ -90,7 +90,7 @@ body {
     height: 40px;
     border-radius: 50%;
     background: #FF3E79;
-    background-image: url(/src/img/header__tel.svg);
+    background-image: url(/img/header__tel.svg);
     background-repeat: no-repeat;
     background-position-x: center;
     background-position-y: center; } }
@@ -101,7 +101,7 @@ body {
     height: 40px;
     border-radius: 50%;
     background: #FF3E79;
-    background-image: url(/src/img/header__massage.svg);
+    background-image: url(/img/header__massage.svg);
     background-repeat: no-repeat;
     background-position-x: center;
     background-position-y: center;
@@ -113,7 +113,7 @@ body {
     height: 40px;
     border-radius: 50%;
     background: #FF3E79;
-    background-image: url(/src/img/header__profile.svg);
+    background-image: url(/img/header__profile.svg);
     background-repeat: no-repeat;
     background-position-x: center;
     background-position-y: center; } }
@@ -140,7 +140,7 @@ body {
   height: 40px;
   border-radius: 50%;
   background: #FF3E79;
-  background-image: url(/src/img/header__setting.png);
+  background-image: url(/img/header__setting.png);
   background-repeat: no-repeat;
   background-position-x: center;
   background-position-y: center;
@@ -152,7 +152,7 @@ body {
     height: 40px;
     border-radius: 50%;
     background: #FF3E79;
-    background-image: url(/src/img/header__setting.png);
+    background-image: url(/img/header__setting.png);
     background-repeat: no-repeat;
     background-position-x: center;
     background-position-y: center;
@@ -163,7 +163,7 @@ body {
   height: 40px;
   border-radius: 50%;
   background: #FF3E79;
-  background-image: url(/src/img/header__search.png);
+  background-image: url(/img/header__search.png);
   background-repeat: no-repeat;
   background-position-x: center;
   background-position-y: center;
@@ -179,7 +179,7 @@ body {
     height: 40px;
     border-radius: 50%;
     background: #FF3E79;
-    background-image: url(/src/img/header__search.png);
+    background-image: url(/img/header__search.png);
     background-repeat: no-repeat;
     background-position-x: center;
     background-position-y: center;
@@ -1207,10 +1207,9 @@ a {
   height: 40px;
   border-radius: 50%;
   background: #FF3E79;
-  background-image: url(/src/img/x.svg);
+  background-image: url(/img/x.svg);
   background-repeat: no-repeat;
-  background-position-x: center;
-  background-position-y: center;
+  margin-top: 24px;
   margin: 24px 16px 0px 16px;
   z-index: 20; }
 
@@ -1228,7 +1227,7 @@ a {
     height: 40px;
     border-radius: 50%;
     background: #FF3E79;
-    background-image: url(/src/img/x.svg);
+    background-image: url(/img/x.svg);
     background-repeat: no-repeat;
     background-position-x: center;
     background-position-y: center;
@@ -1320,7 +1319,7 @@ h6 {
   height: 40px;
   border-radius: 50%;
   background: #FF3E79;
-  background-image: url(/src/img/x.svg);
+  background-image: url(/img/x.svg);
   background-repeat: no-repeat;
   background-position-x: center;
   background-position-y: center;
@@ -1341,7 +1340,7 @@ h6 {
     height: 40px;
     border-radius: 50%;
     background: #FF3E79;
-    background-image: url(/src/img/x.svg);
+    background-image: url(/img/x.svg);
     background-repeat: no-repeat;
     background-position-x: center;
     background-position-y: center;
