@@ -27,7 +27,9 @@ body {
   font-family: 'TT Lakes', sans-serif;
   background: #F8F8F8;
   margin: 0px;
-  z-index: 10; }
+  z-index: 10;
+  width: 100%;
+  overflow-x: hidden; }
 
 .header {
   display: flex;
@@ -1209,7 +1211,8 @@ a {
   background: #FF3E79;
   background-image: url(/img/x.svg);
   background-repeat: no-repeat;
-  margin-top: 24px;
+  background-position-x: center;
+  background-position-y: center;
   margin: 24px 16px 0px 16px;
   z-index: 20; }
 
